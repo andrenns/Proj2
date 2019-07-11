@@ -1,1 +1,1 @@
-# proj2
+Project for the Object Oriented Programming course
